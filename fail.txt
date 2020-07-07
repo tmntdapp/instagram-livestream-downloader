@@ -1,0 +1,180 @@
+ 1 	128	1	MSN	2	已下架 http://tw.messenger.yahoo.com/
+ 2 	128	2	Yahoo Messenger	2	已下架 http://tw.messenger.yahoo.com/
+ 3 	128	3	AIM	2	已下架 https://en.vessoft.com/software/windows/download/aim
+ 4 	128	3	AIM (Android)	2	已下架 https://apk-dl.com/aim/com.aol.mobile.aim
+ 5 	128	3	AIM (iOS)	2	已下架 https://appadvice.com/app/aim-for-ipad-free-sms-chat/364193698
+ 6 	128	8	Rediff BOL	2	https://rediff-bol-messenger.software.informer.com/
+ 7 	128	16	Omegle (WEB)	2	無版本http://www.omegle.com/
+ 8 	128	17	IPMSG	2	https://download.pchome.net/internet/communications/message/detail-187396.html
+ 9 	128	18	AliWW	1	https://alimarket.taobao.com/markets/qnww/portal-group/ww/download
+ 10 	128	25	BeeTalk (Android)	2	已下架
+ 11 	128	25	BeeTalk (iOS)	2	已下架
+ 12 	128	28	Pidgin	2	電腦版已下架 https://sourceforge.net/projects/pidgin/files/latest/download
+ 13 	128	33	KC	2	http://www.crsky.com/soft/13919.html
+ 14 	128	38	Raidcall	2	已下架http://www.raidcall.com.tw/download.php
+ 15 	128	43	24im	2	已下架https://freesofta.com/download/windows/communication/instant-messaging/24im-messenger.html
+ 16 	128	44	Camfrog	2	https://download.camfrog.com/en/windows/
+ 17 	128	62	TELTEL	2	已下架 http://www.softking.com.tw/soft/?fid3=23348
+ 18 	128	65	Kltx	2	http://www.pcsoft.com.cn/soft/60345.html
+ 19 	128	68	Netcall (Android)	2	https://play.google.com/store/apps/details?id=ru.sipnet.netcall
+ 20 	128	77	ProvideSupport	2	https://www.providesupport.com/live-chat-apps/all-applications.html
+ 21 	128	80	Weibo	2	已下架http://desktop.weibo.com
+ 22 	128	95	BitWise	2	http://download.cnet.com/BitWise-IM/3000-2092_4-46871.html
+ 23 	128	96	Barablu	2	http://m.brothersoft.com/symbian/barablu-12639.html
+ 24 	128	99	Appme (iOS)	2	已下架 https://itunes.apple.com/app/appme-chat-messenger/id509161291?mt=8
+ 25 	128	104	CoolMessenger_2.1.1.1.1	2	http://freesofta.com/download/windows/communication/instant-messaging/coolmessenger-2.html
+ 26 	129	17	Mini Thunder	1	已下架http://dl.xunlei.com/mini.html
+ 27 	129	17	Thunder	1	http://dl.xunlei.com/mini.html
+ 28 	129	18	myMusic	2	https://175.99.91.55/downloadApp/pcsoft
+ 29 	129	19	QQDownload	1	https://im.qq.com/pcqq/
+ 30 	129	21	easyMule	2	http://m.onlinedown.net/soft/66305.htm
+ 31 	129	27	Soulseek	2	http://www.soulseekqt.net/news/node/1
+ 32 	129	35	Artemis	2	https://artemisp2p.en.softonic.com/
+ 33 	129	41	Deepnet Explorer	2	http://www.deepnetexplorer.com/download/download.asp
+ 34 	129	85	MlDonkey	2	http://mldonkey.sourceforge.net/Download
+ 35 	129	98	Rufus	2	https://rufus.en.uptodown.com/windows
+ 36 	129	149	Vuze	2	http://www.filehippo.com/download_vuze/
+ 37 	129	202	Bondisk (iOS)	2	已下架 https://itunes.apple.com/cn/app/bondiseukeu-bondisk-daunlodeu/id765342523
+ 38 	129	212	NETFOLDER	2	http://netfolder2.software.informer.com/
+ 39 	129	215	DBGO	2	http://global.dbgo.com/en/download.php
+ 40 	129	235	Jjangfile (Web)	2	http://jjangfile.net/
+ 41 	129	245	Redfile	2	http://redfile.co.kr/
+ 42 	131	8	DBank (iOS)	3	已下架 https://itunes.apple.com/tw/app/hua-wei-wang-panhd/id510001181
+ 43 	131	9	115.com (Mac)	3	http://anxia.com/m/115brv84019dmg
+ 44 	131	9	115.com (Windows)	3	http://anxia.com/w/dnb115
+ 45 	131	10	Weiyun (Windows)	3	https://download.pchome.net/internet/sharing/detail-29116.html
+ 46 	131	15	Google Drive(Android)	3	https://apk.support/app-zh_cn/com.google.android.apps.docs
+ 47 	131	18	UPlusBox (Windows)	3	https://fortiguard.com/appcontrol/33311
+ 48 	131	22	YunFile	3	http://www.yunfile.com/
+ 49 	131	29	Temp Share (Web)	3	https://temp-share.com/
+ 50 	131	38	360 Cloud (Android)	3	https://download.pchome.net/mobile/Internet/Network/detail-200570.html
+ 51 	131	40	Baidu Cloud (Android)	3	http://yun.baidu.com/disk/cmsdata?do=client
+ 52 	131	40	Baidu Cloud (Mac)	3	http://yun.baidu.com/disk/cmsdata?do=client
+ 53 	131	40	Baidu Cloud (Windows)	3	http://yun.baidu.com/disk/cmsdata?do=client
+ 54 	131	76	Diino	3	https://download.cnet.com/Diino/3000-2196_4-10648969.html
+ 55 	131	85	Filesend.to	3	http://www.filesend.to/
+ 56 	131	85	Taku File Bin	3	http://www.filesend.to/
+ 57 	131	88	Filesend	3	http://www.filesend.net/
+ 58 	131	92	Fileserve	3	https://fileserve-manager.en.softonic.com/
+ 59 	131	115	Freakshare	3	http://freakshare.com/
+ 60 	131	130	SoundCloud	3	http://soundcloud.com/
+ 61 	131	139	Datei	3	http://datei.to/
+ 62 	131	141	LeapFile	3	http://www.leapfile.com/
+ 63 	131	142	BigUpload	3	http://www.bigupload.com/en
+ 64 	131	145	File-Upload	3	http://www.file-upload.net/
+ 65 	131	151	CloudMe (Android)	3	https://cloudme.en.aptoide.com/
+ 66 	131	152	BeAnywhere (iOS)	3	Not support http://download.cnet.com/BeAnywhere-Support-Applet/3000-2064_4-76279833.html
+ 67 	131	152	MSP Anywhere (iOS)	3	Not support https://itunes.apple.com/app/msp-anywhere-console/id1061056883
+ 68 	131	155	Yandex.Disk	3	https://filehippo.com/zh/download_yandex_disk/
+ 69 	131	158	SpiderOak	3	https://filehippo.com/zh/download_spideroak/
+ 70 	131	165	4Sync (Windows)	3	https://4sync.en.softonic.com/
+ 71 	132	2	RealPlayer	3	http://hk.real.com/
+ 72 	132	3	WinAmp	3	http://www.filehippo.com/download_winamp/
+ 73 	132	7	QQLive	1	http://v.qq.com/download.html
+ 74 	132	19	Twitch.tv (Android)	1	https://twitch-app.en.uptodown.com/android
+ 75 	132	22	SBS	3	http://www.sbs.co.kr/
+ 76 	132	23	UUSee	3	http://www.pc6.com/softview/SoftView_47361.html
+ 77 	132	23	UUSee (iPad)	3	http://www.xiazaizhijia.com/shouji/13510.html
+ 78 	132	23	UUSee (iPhone)	3	http://www.xiazaiba.com/html/5852.html
+ 79 	132	24	SopCast	3	http://www.brothersoft.com/download-sopcast-66299.html
+ 80 	132	27	Metacafe	3	http://www.metacafe.com/
+ 81 	132	46	NicoNicoDouga	3	http://tw.nicovideo.jp/
+ 82 	132	68	PIPI	3	http://www.pipi.cn/down/index.html
+ 83 	132	116	Youku (Windows)	1	http://mobile.youku.com/index/pc
+ 84 	132	132	Netflix (Android)	1	https://www.apkmirror.com/apk/netflix-inc/
+ 85 	132	140	Qvod (Windows)	3	http://www.kuaibo.com/download.html
+ 86 	132	152	YoukuVa	3	http://dl.pconline.com.cn/download/60441.html
+ 87 	132	159	Podcast (iOS)	3	https://itunes.apple.com/us/app/podcasts/id525463029
+ 88 	133	6	Groupwise	3	http://www.novell.com/products/groupwise
+ 89 	133	24	Zoho	3	http://www.zoho.jp/
+ 90 	133	94	Hotmail (iOS)	3	已下架 https://itunes.apple.com/us/app/windows-live-hotmail-push/id446057931
+ 91 	134	7	ooVoo (iOS)	2	已下架 https://oovoo-mac.en.softonic.com/mac
+ 92 	134	18	LINE (Android)	1	https://www.apkmirror.com/apk/line-corporation/line/
+ 93 	134	18	LINE (Windows)	1	http://filehippo.com/zh/download_line/
+ 94 	134	19	fring (Android)	2	https://fring.en.softonic.com/android
+ 95 	134	22	Viber (Android)	1	https://play.google.com/store/apps/details?id=com.viber.voip
+ 96 	136	3	Cga.com	3	http://www.cga.com.cn/index/down
+ 97 	136	5	PoPKart(Simplified)	3	https://popkart.tiancity.com/homepage/download/
+ 98 	136	5	PoPKart(Traditional)	3	https://tw.beanfun.com/kartrider/download01.aspx
+ 99 	136	23	Ispeakgame	3	https://download.pchome.net/internet/communications/message/detail-20254.html
+ 100 	136	35	Little Fighter 2	3	http://www.littlefighter.com/download_lf2_b5.html
+ 101 	136	41	GameABC	3	http://gameabc.com/
+ 102 	136	41	GameTea	3	http://www.onlinedown.net/soft/89913.htm
+ 103 	136	66	ClubPenguin	3	http://www.clubpenguin.com/
+ 104 	136	79	Lineage2	3	http://hinetgame.games.hinet.net/download/item/5293
+ 105 	136	105	Tetris	3	http://www.tetris.com/
+ 106 	136	127	TENOnline	3	http://dler.org/dl.php?id=6732
+ 107 	136	144	91555	3	http://yxzx.zjdb.cn/Home1503/download.aspx
+ 108 	136	166	Wayi SG2	3	http://sg2.wayi.com.tw/
+ 109 	136	182	TXWY TS	3	http://ts.txwy.tw/
+ 110 	136	184	TXWY WLZW	3	http://wlzw.txwy.tw/
+ 111 	136	191	Yeapgame ZS	3	已關服 http://zs.yeapgame.com/
+ 112 	136	192	Yeapgame AJ	3	已關服 http://www.yeapgame.com/aj
+ 113 	136	193	Yeapgame YQ	3	已關服 http://yq.yeapgame.com/
+ 114 	136	194	Yeapgame CSXY	3	已關服 http://csxy.yeapgame.com/
+ 115 	136	195	Yeapgame SJ	3	已關服 http://sj.yeapgame.com/
+ 116 	136	196	Yeapgame ZQX	3	已關服 http://zqx.yeapgame.com/
+ 117 	136	197	Yeapgame XQ	3	已關服 http://xq.yeapgame.com/
+ 118 	136	198	Yeapgame BBT	3	已關服 http://bbt.yeapgame.com/
+ 119 	136	199	Yeapgame TJ	3	已關服 http://www.yeapgame.com/tj
+ 120 	136	200	Yeapgame XXMJ	3	已關服 http://xxmj.yeapgame.com/
+ 121 	136	202	Yeapgame PX	3	已關服 http://px.yeapgame.com/
+ 122 	136	211	FUNMILY SL	3	http://sl.funmily.com/
+ 123 	136	219	FUNMILY Shadow	3	http://shadow.funmily.com/
+ 124 	136	229	AirlineMogul	3	http://www.airlinemogul.com/airlinemogul/index.php
+ 125 	136	235	Ibibo	3	http://www.ibibo.com/
+ 126 	138	2	RealVNC	3	http://www.filehippo.com/download_realvnc/
+ 127 	138	3	TeamViewer	3	https://www.teamviewer.com/zhtw/download/windows/
+ 128 	138	10	PC Monitor (Android)	3	https://apkplz.com/android-apps/pulseway-apk-download
+ 129 	138	12	Beinsync	3	http://download.cnet.com/BeInSync/3000-7240_4-10311348.html
+ 130 	139	7	Tor	1	https://www.torproject.org/download/download-easy.html.en
+ 131 	139	23	GPass	2	http://www.techspot.com/downloads/6302-gpass.html
+ 132 	139	31	GomVPN (Android)	2	https://gom-for-android.en.aptoide.com/
+ 133 	139	84	SSLunblock	2	https://sslunblock.net/
+ 134 	139	86	Mousematrix	2	https://www.mousematrix.com/
+ 135 	139	90	CyberGhostVPN	2	http://www.chip.de/downloads/CyberGhost-VPN_30719582.html
+ 136 	139	91	SecurityKISS	2	http://www.securitykiss.com/resources/download/windows/
+ 137 	139	92	WebWarper	2	http://webwarper.net/
+ 138 	139	95	TunnelBear (Windows)	2	http://filehippo.com/zh/download_tunnelbear/
+ 139 	139	110	Betternet (Windows)	2	http://filehippo.com/zh/download_betternet/
+ 140 	139	151	Getflix	2	https://getflix.en.softonic.com/android
+ 141 	139	154	Mullvad	2	
+ 142 	140	12	Hypwise	3	http://www.xitongzhijia.net/soft/67350.html
+ 143 	141	5	FuzeMeeting	3	http://www.fuzemeeting.com/
+ 144 	141	12	Mozilla Firefox (Android)	3	https://filehippo.com/download_mozilla-firefox/
+ 145 	141	14	Opera browser (Android)	3	https://opera-classic.en.uptodown.com/android
+ 146 	141	14	Opera browser (Windows)	3	https://opera-browser.en.uptodown.com/android
+ 147 	141	19	Soso	3	http://m.apk.tw/s/soso
+ 148 	141	37	Craigslist.org (Android)	3	https://www.apk4fun.com/apps/com.craigslist.maranetwork/
+ 149 	141	40	ETtoday (Android)	3	https://play.google.com/store/apps/details?id=net.ettoday.phone&referrer=utm_source%3Det_pc%26utm_medium%3Dpc_appdl_iconandroid_et
+ 150 	141	43	518 Job Bank (Android)	3	http://apk.1mobile.com/tw-com-bank518-apk.html
+ 151 	141	60	Fnnews	3	http://www.fnnews.com/
+ 152 	141	70	Life.com.tw	3	http://www.life.com.tw/
+ 153 	141	71	Libertytimes	3	http://www.libertytimes.com.tw
+ 154 	141	89	Plus28.com	3	http://www.plus28.com
+ 155 	141	97	Yesky.com (iOS)	3	已下架 https://itunes.apple.com/us/app/tian-ji-shu-ma/id478210740
+ 156 	141	129	Yugma	3	http://www.computerbild.de/download/Yugma-Free-10505.html
+ 157 	141	145	SugarCRM	3	http://www.sugarcrm.com/crm/
+ 158 	141	147	Stumbleupon	3	http://www.stumbleupon.com/
+ 159 	141	151	Spark	3	https://spark.en.softonic.com/
+ 160 	141	152	Socialtext	3	http://www.socialtext.com/
+ 161 	141	157	MorningStar	3	https://www.morningstar.com/products/direct/download
+ 162 	141	176	Lotte.com	3	Unknow http://www.lotte.com/
+ 163 	141	196	Udn.com (Android)	3	https://tw.apksum.com/app/udn-news/com.udn.news
+ 164 	141	240	PulseNews (iOS)	3	整合到Linkedin https://pulse-news.en.uptodown.com/android
+ 165 	141	251	Ruten (Android)	3	https://play.google.com/store/apps/details?id=com.ruten.android.rutengoods.rutenbid
+ 166 	143	3	eBuddy	3	web版已關閉 http://www.ebuddy.com/
+ 167 	143	10	Web QQ	3	已下架 http://web.qq.com/
+ 168 	152	27	Mekusharim	2	已關閉 http://mekusharim.walla.co.il/
+ 169 	152	36	Mig33	2	Unknow http://www.brothersoft.com/mig33-81447.html
+ 170 	152	46	Plaxo	2	已下架 http://www.plaxo.com/
+ 171 	152	50	FMyLife	2	Unknow http://www.fmylife.com/
+ 172 	152	57	Xuite (iOS)	2	已下架 http://www.148apps.com/app/598881441/
+ 173 	152	114	Ameba	2	No desktop version http://www.ameba.jp/
+ 174 	152	114	Ameba (Android)	2	https://aapks.com/apk/ameba/version/47025793/
+ 175 	152	135	Lokalisten	2	已下架 http://www.lokalisten.de/
+ 176 	152	142	Hyves	2	未上架 http://hyves.nl/
+ 177 	152	152	Google Plus(Android)	2	https://www.apk4fun.com/apk/848/
+ 178 	152	161	DatingDNA (iOS)	2	已下架 https://download.cnet.com/Dating-DNA-1-Date-App-for-iPhone/3000-12941_4-10907711.html
+ 179 	152	166	Path (iOS)	2	已下架 https://itunes.apple.com/us/app/path/id867760913?ign-mpt=uo%3D8
+ 180 	152	172	After School (iOS)	2	已下架 https://itunes.apple.com/us/app/after-school-funny-anonymous/id918396645?mt=8
